@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="github-profile.gif" alt="HOTEL PROGRESS" width="300">
+</div>
+
 # <div align="center">🌟 Cyrille Emmanuel Adigra Aka</div>  
 <div align="center"><b>Data & Business Analyst | MBA Candidate | Mathematics Graduate</b></div>  
 
