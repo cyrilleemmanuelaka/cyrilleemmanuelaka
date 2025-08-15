@@ -83,7 +83,12 @@ Passionate **Data & Business Analyst** with a strong foundation in **statistics,
 ## 🔥 **Projects**  
 ### **Carbon Emission Computation (Capstone Project)**  
 📌 Built a **GHG inventory model** for IUGB's energy sector using **R and Excel**  
-📌 Analyzed carbon footprints to support sustainability initiatives  
+📌 Analyzed carbon footprints to support sustainability initiatives
+
+### **Telco Customer Churn Analysis**  
+📌 Analyzed **7,043 customer** records to uncover churn drivers **Python and Excel**  
+📌 Built predictive models (Logistic Regression, Random Forest) with 80% accuracy
+📌 Designed an interactive dashboard **PowerBI**
 
 ---
 
