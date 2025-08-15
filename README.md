@@ -87,7 +87,7 @@ Passionate **Data & Business Analyst** with a strong foundation in **statistics,
 
 ### **Telco Customer Churn Analysis**  
 📌 Analyzed **7,043 customer** records to uncover churn drivers **Python and Excel**  
-📌 Built predictive models (Logistic Regression, Random Forest) with 80% accuracy
+📌 Built predictive models (Logistic Regression, Random Forest) with 80% accuracy  
 📌 Designed an interactive dashboard **PowerBI**
 
 ---
