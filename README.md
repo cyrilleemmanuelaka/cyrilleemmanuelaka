@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="github-profile.gif" alt="HOTEL PROGRESS" width="300">
+  <img src="github profile.gif" alt="GitHub Profile GIF" width="500">
 </div>
 
 # <div align="center">🌟 Cyrille Emmanuel Adigra Aka</div>  
