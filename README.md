@@ -110,19 +110,5 @@ Passionate **Data & Business Analyst** with a strong foundation in **statistics,
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cyrilleemmanuelaka&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyrilleemmanuelaka&layout=compact&theme=radical&hide_border=true" alt="Top Languages">
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyrilleemmanuelaka&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views">
-</div>
-
----
-
-<div align="center">
 ✨ <b>Thanks for visiting!</b> ✨
 </div>
