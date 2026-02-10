@@ -6,7 +6,7 @@
 <div align="center"><b>Data & Business Analyst | MBA Candidate | Mathematics Graduate</b></div>  
 
 <div align="center">
-📍 <b>Cedar City, UT</b> | 📧 <a href="mailto:cyrilleemmanuelaka@gmail.com">cyrilleemmanuelaka@gmail.com</a> | 📞 (435) 236-9529 | 🔗 <a href="https://linkedin.com/cyrille-emmanuel-aka">LinkedIn</a>
+📍 <b>Cedar City, UT</b> | 📧 <a href="mailto:cyrilleemmanuelaka@gmail.com">cyrilleemmanuelaka@gmail.com</a> | 📞 (435) 263-5085 | 🔗 <a href="https://linkedin.com/cyrille-emmanuel-aka">LinkedIn</a>
 </div>  
 
 ---
