@@ -12,7 +12,7 @@
 ---
 
 ## 🚀 **About Me**  
-Passionate **Data & Business Analyst** with a strong foundation in **statistics, data visualization, and business intelligence**. Currently pursuing an **MBA in Business Analysis** at Southern Utah University (GPA: 3.9/4.0) and holding a **B.Sc. in Mathematics**. Experienced in leveraging **Python, R, SQL, Power BI, and Excel** to drive data-driven decisions and optimize business performance.  
+Passionate **Data & Business Analyst** with a strong foundation in **statistics, data visualization, and business intelligence**. Currently pursuing an **MBA in Business Analysis** at Southern Utah University (GPA: 4.0/4.0) and holding a **B.Sc. in Mathematics**. Experienced in leveraging **Python, R, SQL, Power BI, and Excel** to drive data-driven decisions and optimize business performance.  
 
 🔹 **Skills:** Data Cleaning | Statistical Modeling | Forecasting | Data Visualization | Business Intelligence  
 🔹 **Languages:** Python, R, SQL, DAX  
